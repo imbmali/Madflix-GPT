@@ -35,12 +35,8 @@ npm start
 ```
 
 ## 🛠️ Working Model Screenshots
-![Screenshot 2024-03-12 at 11 35 24 PM](https://github.com/imbmali/Netflix-GPT/assets/35923279/b5a5fafb-9075-449a-82ce-459ddd8a0108)
 
-![Screenshot 2024-03-12 at 11 35 11 PM](https://github.com/imbmali/Netflix-GPT/assets/35923279/04f577ac-d208-42a1-9d91-9896ca683b02)
-
-
-
+<img width="1440" alt="Screenshot 2022-08-20 at 12 13 20 AM" src="https://github.com/imbmali/Netflix-GPT/assets/35923279/b5a5fafb-9075-449a-82ce-459ddd8a0108">
 
 
 ## 🥁 Features
