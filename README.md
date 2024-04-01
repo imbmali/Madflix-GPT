@@ -8,7 +8,12 @@ Authentication.
 
 - React
 - Redux
-- Firebase
+- Tailwind CSS
+- Firebase Authentication
+- OpenAI API
+- TMDB API
+
+
 
 
 
@@ -43,3 +48,15 @@ npm start!
 <img width="1440" alt="Screenshot 2022-08-20 at 12 13 20 AM" src="https://github.com/imbmali/Netflix-GPT/assets/35923279/3ab80830-e6c8-4b76-b20b-0fead2cc5cc6">
 
 ## 🥁 Features
+- GPT Movie Search: Harness the power of AI with our GPT-powered movie search feature. Simply input any query, no matter how complex, and let our AI suggest a set of 5 movies tailored to your search.
+ 
+- Comprehensive Info: From plot summaries, and movie videos, to cast details, Netflix-GPT provides everything you need to know about your favourite movies.
+ 
+- Device-Friendly: Enjoy Madflix seamlessly across all devices, whether you're on a desktop, tablet, or smartphone.
+ 
+- Secure Access: Safeguard your account with user authentication, offering hassle-free login, signup, and password recovery options.
+ 
+- Explore Cast: Click on any cast member to discover all movies featuring that actor or actress, expanding your cinematic horizons effortlessly.
+ 
+- Diverse Movie Categories: On the homepage, immerse yourself in a curated selection of movies categorized as Now Playing, Discover, Top Rated, All-Time Favorites, and Popular, powered by the The Movie Database (TMDB) API.
+
