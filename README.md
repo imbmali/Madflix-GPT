@@ -1,4 +1,4 @@
-## 💥 Netflix-GPT
+## 💥 Madflix-GPT
 
 Netflix-GPT is a web app for watching the latest movies with a movie recommendation system using OpenAI's GPT API's. It is built using React, Redux for frontend & firebase for 
 Authentication.
@@ -22,7 +22,7 @@ Authentication.
 We will first start with setting up the Local Project Environment:
 
 ```sh
-git clone https://github.com/imbmali/Netflix-GPT.git
+git clone https://github.com/imbmali/Madflix-GPT.git
 cd Netflix-GPT
 ```
 
